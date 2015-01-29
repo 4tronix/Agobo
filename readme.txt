@@ -12,5 +12,6 @@ ledTest.py - flashes the 2 front white LEDs alternately
 motorTest.py - runs through basic motor commands
 motorTest2.py - *Try this first* drives the motors using keyboard arrow keys and , and . for speed
 sonarTest.py - prints the distance in cm to the nearest sonar reflecting object every second
+switchTest.py - prints the state of the mode switch once per second
 
 strandtest.py - flashes colour changes to the neopixel on PlusPlate. Requires _rpi_ws281x library from https://learn.adafruit.com/neopixels-on-raspberry-pi/software to be installed.
