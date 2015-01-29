@@ -6,7 +6,7 @@ See creativecommons.org/licenses/by-sa/3.0/ for details
 
 Python Software
 ================
-agobo.pyc - agobo library modules
+agobo.py - agobo library modules
 irTest.py - tests the IR line sensors
 ledTest.py - flashes the 2 front white LEDs alternately
 motorTest.py - runs through basic motor commands
